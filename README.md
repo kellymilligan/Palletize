@@ -99,7 +99,7 @@ const colors = Palette.random(10, [background]) // `Cotton` swatch excluded from
 Palette.id('black-robin')
 ```
 
-<center><img width="512" src="examples/example-00.png"></center>
+<p align="center"><img width="512" src="examples/example-00.png"></p>
 
 ---
 
@@ -107,7 +107,7 @@ Palette.id('black-robin')
 Palette.random(10)
 ```
 
-<center><img width="512" src="examples/example-01.png"></center>
+<p align="center"><img width="512" src="examples/example-01.png"></p>
 
 ---
 
@@ -115,7 +115,7 @@ Palette.random(10)
 Palette.luminance(0, 0.2, 10)
 ```
 
-<center><img width="512" src="examples/example-02.png"></center>
+<p align="center"><img width="512" src="examples/example-02.png"></p>
 
 ---
 
@@ -123,7 +123,7 @@ Palette.luminance(0, 0.2, 10)
 Palette.luminance(0.6, 1, 10)
 ```
 
-<center><img width="512" src="examples/example-03.png"></center>
+<p align="center"><img width="512" src="examples/example-03.png"></p>
 
 ---
 
@@ -131,7 +131,7 @@ Palette.luminance(0.6, 1, 10)
 Palette.hue(0, 15, 10)
 ```
 
-<center><img width="512" src="examples/example-04.png"></center>
+<p align="center"><img width="512" src="examples/example-04.png"></p>
 
 ---
 
@@ -139,7 +139,7 @@ Palette.hue(0, 15, 10)
 Palette.hue(120, 30, 10)
 ```
 
-<center><img width="512" src="examples/example-05.png"></center>
+<p align="center"><img width="512" src="examples/example-05.png"></p>
 
 ---
 
@@ -147,7 +147,7 @@ Palette.hue(120, 30, 10)
 Palette.hue(200, 30, 10)
 ```
 
-<center><img width="512" src="examples/example-06.png"></center>
+<p align="center"><img width="512" src="examples/example-06.png"></p>
 
 ---
 
@@ -155,7 +155,7 @@ Palette.hue(200, 30, 10)
 Palette.saturation(0.5, 1, 10)
 ```
 
-<center><img width="512" src="examples/example-07.png"></center>
+<p align="center"><img width="512" src="examples/example-07.png"></p>
 
 ---
 
@@ -163,7 +163,7 @@ Palette.saturation(0.5, 1, 10)
 Palette.saturation(0, 0.1, 10)
 ```
 
-<center><img width="512" src="examples/example-08.png"></center>
+<p align="center"><img width="512" src="examples/example-08.png"></p>
 
 ---
 
@@ -171,7 +171,7 @@ Palette.saturation(0, 0.1, 10)
 Palette.lightness(0, 0.33, 10)
 ```
 
-<center><img width="512" src="examples/example-09.png"></center>
+<p align="center"><img width="512" src="examples/example-09.png"></p>
 
 ---
 
@@ -179,7 +179,7 @@ Palette.lightness(0, 0.33, 10)
 Palette.lightness(0.8, 1, 10)
 ```
 
-<center><img width="512" src="examples/example-10.png"></center>
+<p align="center"><img width="512" src="examples/example-10.png"></p>
 
 ---
 
@@ -187,7 +187,7 @@ Palette.lightness(0.8, 1, 10)
 Palette.hsl([0, 45], [0.5, 1], [0.7, 1], 10)
 ```
 
-<center><img width="512" src="examples/example-11.png"></center>
+<p align="center"><img width="512" src="examples/example-11.png"></p>
 
 ---
 
@@ -195,7 +195,7 @@ Palette.hsl([0, 45], [0.5, 1], [0.7, 1], 10)
 Palette.hsl([150, 35], [0, 0.33], [0, 0.5], 10)
 ```
 
-<center><img width="512" src="examples/example-12.png"></center>
+<p align="center"><img width="512" src="examples/example-12.png"></p>
 
 ---
 
@@ -203,4 +203,4 @@ Palette.hsl([150, 35], [0, 0.33], [0, 0.5], 10)
 Palette.hsl(undefined, [0.5, 1], [0.5, 1], 10)
 ```
 
-<center><img width="512" src="examples/example-13.png"></center>
+<p align="center"><img width="512" src="examples/example-13.png"></p>
