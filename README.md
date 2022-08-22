@@ -1,2 +1,3 @@
 # Palletize
-Tooling for collections of colors
+
+Tools for collections of colors

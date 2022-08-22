@@ -1,0 +1,902 @@
+[
+  {
+    "id": "naturally-white",
+    "title": "Naturally White",
+    "hex": "#fffffd",
+    "contrast": false
+  },
+  {
+    "id": "egyptian-cotton",
+    "title": "Egyptian Cotton",
+    "hex": "#fdfdfb",
+    "contrast": false
+  },
+  {
+    "id": "cotton",
+    "title": "Cotton",
+    "hex": "#fffef9",
+    "contrast": false
+  },
+  {
+    "id": "goats-cheese",
+    "title": "Goat&#039;s Cheese",
+    "hex": "#fefbed",
+    "contrast": false
+  },
+  {
+    "id": "jersey-cream",
+    "title": "Jersey Cream",
+    "hex": "#fefdeb",
+    "contrast": false
+  },
+  {
+    "id": "milk-bottle",
+    "title": "Milk Bottle",
+    "hex": "#f7f6f1",
+    "contrast": false
+  },
+  {
+    "id": "shell",
+    "title": "Shell",
+    "hex": "#f7f4f1",
+    "contrast": false
+  },
+  {
+    "id": "stone",
+    "title": "Stone",
+    "hex": "#f0f0e7",
+    "contrast": false
+  },
+  {
+    "id": "morning-coffee",
+    "title": "Morning Coffee",
+    "hex": "#f9f1ea",
+    "contrast": false
+  },
+  {
+    "id": "sunday-stroll",
+    "title": "Sunday Stroll",
+    "hex": "#f4efdb",
+    "contrast": false
+  },
+  {
+    "id": "clover-honey",
+    "title": "Clover Honey",
+    "hex": "#f1eee6",
+    "contrast": false
+  },
+  {
+    "id": "norwester",
+    "title": "Norwester",
+    "hex": "#eae7e1",
+    "contrast": false
+  },
+  {
+    "id": "haze",
+    "title": "Haze",
+    "hex": "#e2e1dd",
+    "contrast": false
+  },
+  {
+    "id": "quails-egg",
+    "title": "Quail&#039;s Egg",
+    "hex": "#d9ddd9",
+    "contrast": false
+  },
+  {
+    "id": "silver-pine",
+    "title": "Silver Pine",
+    "hex": "#d5d5d3",
+    "contrast": false
+  },
+  {
+    "id": "smoke",
+    "title": "Smoke",
+    "hex": "#d7d9d8",
+    "contrast": false
+  },
+  {
+    "id": "takaka-marble",
+    "title": "Takaka Marble",
+    "hex": "#d5d5cc",
+    "contrast": false
+  },
+  {
+    "id": "dinghy",
+    "title": "Dinghy",
+    "hex": "#cbcbc7",
+    "contrast": false
+  },
+  {
+    "id": "boatshed",
+    "title": "Boatshed",
+    "hex": "#9ca09c",
+    "contrast": true
+  },
+  {
+    "id": "waterfront",
+    "title": "Waterfront",
+    "hex": "#8b8b89",
+    "contrast": true
+  },
+  {
+    "id": "the-wharf",
+    "title": "The Wharf",
+    "hex": "#b7b3a6",
+    "contrast": false
+  },
+  {
+    "id": "shearing-shed",
+    "title": "Shearing Shed",
+    "hex": "#bdb4aa",
+    "contrast": false
+  },
+  {
+    "id": "morning-fog",
+    "title": "Morning Fog",
+    "hex": "#cac6bd",
+    "contrast": false
+  },
+  {
+    "id": "flax-mill",
+    "title": "Flax Mill",
+    "hex": "#cfcbb0",
+    "contrast": false
+  },
+  {
+    "id": "hot-mud-pools",
+    "title": "Hot Mud Pools",
+    "hex": "#b4ab97",
+    "contrast": false
+  },
+  {
+    "id": "tides-out",
+    "title": "Tide&#039;s Out",
+    "hex": "#d0ccbb",
+    "contrast": false
+  },
+  {
+    "id": "larnach-castle",
+    "title": "Larnach Castle",
+    "hex": "#bab7a8",
+    "contrast": false
+  },
+  {
+    "id": "driftwood",
+    "title": "Driftwood",
+    "hex": "#dedbd0",
+    "contrast": false
+  },
+  {
+    "id": "moas-egg",
+    "title": "Moa&#039;s Egg",
+    "hex": "#e2e1d1",
+    "contrast": false
+  },
+  {
+    "id": "woolly-jumper",
+    "title": "Woolly Jumper",
+    "hex": "#ede7d7",
+    "contrast": false
+  },
+  {
+    "id": "condensed-milk",
+    "title": "Condensed Milk",
+    "hex": "#fef7db",
+    "contrast": false
+  },
+  {
+    "id": "popcorn",
+    "title": "Popcorn",
+    "hex": "#f9eec6",
+    "contrast": false
+  },
+  {
+    "id": "smooth-move",
+    "title": "Smooth Move",
+    "hex": "#fbe7b9",
+    "contrast": false
+  },
+  {
+    "id": "custard-square",
+    "title": "Custard Square",
+    "hex": "#f4d388",
+    "contrast": false
+  },
+  {
+    "id": "summer",
+    "title": "Summer",
+    "hex": "#f9de83",
+    "contrast": false
+  },
+  {
+    "id": "beach-ball",
+    "title": "Beach Ball",
+    "hex": "#ffd259",
+    "contrast": false
+  },
+  {
+    "id": "honey-bee",
+    "title": "Honey Bee",
+    "hex": "#f9d69b",
+    "contrast": false
+  },
+  {
+    "id": "by-hokey",
+    "title": "By Hokey",
+    "hex": "#e7c47a",
+    "contrast": false
+  },
+  {
+    "id": "moutere-clay",
+    "title": "Moutere Clay",
+    "hex": "#cab178",
+    "contrast": false
+  },
+  {
+    "id": "road-trip",
+    "title": "Road Trip",
+    "hex": "#d29b51",
+    "contrast": true
+  },
+  {
+    "id": "deity",
+    "title": "Deity",
+    "hex": "#8d5136",
+    "contrast": true
+  },
+  {
+    "id": "pizza-oven",
+    "title": "Pizza Oven",
+    "hex": "#b46d4b",
+    "contrast": true
+  },
+  {
+    "id": "shell-be-right",
+    "title": "She&#039;ll Be Right",
+    "hex": "#e0c4a9",
+    "contrast": false
+  },
+  {
+    "id": "kete",
+    "title": "Kete",
+    "hex": "#dbd5bc",
+    "contrast": false
+  },
+  {
+    "id": "ginger-beer",
+    "title": "Ginger Beer",
+    "hex": "#bca780",
+    "contrast": false
+  },
+  {
+    "id": "brown-sugar",
+    "title": "Brown Sugar",
+    "hex": "#977d5e",
+    "contrast": true
+  },
+  {
+    "id": "hill-climb",
+    "title": "Hill Climb",
+    "hex": "#8e735e",
+    "contrast": true
+  },
+  {
+    "id": "tin-roof",
+    "title": "Tin Roof",
+    "hex": "#726d62",
+    "contrast": true
+  },
+  {
+    "id": "bushline",
+    "title": "Bushline",
+    "hex": "#41362b",
+    "contrast": true
+  },
+  {
+    "id": "chocolate-chip",
+    "title": "Chocolate Chip",
+    "hex": "#3d3531",
+    "contrast": true
+  },
+  {
+    "id": "gumboots",
+    "title": "Gumboots",
+    "hex": "#484a45",
+    "contrast": true
+  },
+  {
+    "id": "southern-skies",
+    "title": "Southern Skies",
+    "hex": "#70716f",
+    "contrast": true
+  },
+  {
+    "id": "by-the-fire",
+    "title": "By the Fire",
+    "hex": "#66625d",
+    "contrast": true
+  },
+  {
+    "id": "off-the-grid",
+    "title": "Off The Grid",
+    "hex": "#606771",
+    "contrast": true
+  },
+  {
+    "id": "midnight-dip",
+    "title": "Midnight Dip",
+    "hex": "#363a3f",
+    "contrast": true
+  },
+  {
+    "id": "stormy-sky",
+    "title": "Stormy Sky",
+    "hex": "#3e4246",
+    "contrast": true
+  },
+  {
+    "id": "fortitude",
+    "title": "Fortitude",
+    "hex": "#42403c",
+    "contrast": true
+  },
+  {
+    "id": "bull-rush",
+    "title": "Bull Rush",
+    "hex": "#2d2c2b",
+    "contrast": true
+  },
+  {
+    "id": "black-robin",
+    "title": "Black Robin",
+    "hex": "#1f1e1c",
+    "contrast": true
+  },
+  {
+    "id": "sand-bar",
+    "title": "Sand Bar",
+    "hex": "#fbdfc6",
+    "contrast": false
+  },
+  {
+    "id": "just-peachy",
+    "title": "Just Peachy",
+    "hex": "#fbbb86",
+    "contrast": false
+  },
+  {
+    "id": "supernova",
+    "title": "Supernova",
+    "hex": "#ff9444",
+    "contrast": false
+  },
+  {
+    "id": "rise-n-shine",
+    "title": "Rise n Shine",
+    "hex": "#da834e",
+    "contrast": false
+  },
+  {
+    "id": "jester",
+    "title": "Jester",
+    "hex": "#c86a3e",
+    "contrast": false
+  },
+  {
+    "id": "wild-earth",
+    "title": "Wild Earth",
+    "hex": "#ac5b39",
+    "contrast": true
+  },
+  {
+    "id": "fire-sign",
+    "title": "Fire Sign",
+    "hex": "#864231",
+    "contrast": true
+  },
+  {
+    "id": "soul-sister",
+    "title": "Soul Sister",
+    "hex": "#c77861",
+    "contrast": true
+  },
+  {
+    "id": "wild-card",
+    "title": "Wild Card",
+    "hex": "#ed716b",
+    "contrast": false
+  },
+  {
+    "id": "poppy",
+    "title": "Poppy",
+    "hex": "#c0504b",
+    "contrast": true
+  },
+  {
+    "id": "raspberry-fizz",
+    "title": "Raspberry Fizz",
+    "hex": "#a22939",
+    "contrast": true
+  },
+  {
+    "id": "late-nights",
+    "title": "Late Nights",
+    "hex": "#882d2d",
+    "contrast": true
+  },
+  {
+    "id": "harvest",
+    "title": "Harvest",
+    "hex": "#5d3130",
+    "contrast": true
+  },
+  {
+    "id": "a-good-red",
+    "title": "A Good Red",
+    "hex": "#532835",
+    "contrast": true
+  },
+  {
+    "id": "captivate",
+    "title": "Captivate",
+    "hex": "#82575c",
+    "contrast": true
+  },
+  {
+    "id": "roasty-toasty",
+    "title": "Roasty Toasty",
+    "hex": "#5a4147",
+    "contrast": true
+  },
+  {
+    "id": "gravity",
+    "title": "Gravity",
+    "hex": "#44353d",
+    "contrast": true
+  },
+  {
+    "id": "soft-touch",
+    "title": "Soft Touch",
+    "hex": "#d9b8ae",
+    "contrast": false
+  },
+  {
+    "id": "im-blushing",
+    "title": "I&#039;m Blushing",
+    "hex": "#e4ccc5",
+    "contrast": false
+  },
+  {
+    "id": "rose-quartz",
+    "title": "Rose Quartz",
+    "hex": "#ecd2d2",
+    "contrast": false
+  },
+  {
+    "id": "fun-loving",
+    "title": "Fun Loving",
+    "hex": "#fcdcd6",
+    "contrast": false
+  },
+  {
+    "id": "founders-pink",
+    "title": "Founder&#039;s Pink",
+    "hex": "#f7d7ce",
+    "contrast": false
+  },
+  {
+    "id": "camp-mother",
+    "title": "Camp Mother",
+    "hex": "#efaec1",
+    "contrast": false
+  },
+  {
+    "id": "forever-young",
+    "title": "Forever Young",
+    "hex": "#f9d5e4",
+    "contrast": false
+  },
+  {
+    "id": "lamington",
+    "title": "Lamington",
+    "hex": "#f9e6e7",
+    "contrast": false
+  },
+  {
+    "id": "how-sweet",
+    "title": "How Sweet",
+    "hex": "#fff7f4",
+    "contrast": false
+  },
+  {
+    "id": "tea-party",
+    "title": "Tea Party",
+    "hex": "#eedbdd",
+    "contrast": false
+  },
+  {
+    "id": "grapes-in-central",
+    "title": "Grapes in Central",
+    "hex": "#614d77",
+    "contrast": true
+  },
+  {
+    "id": "bookworm",
+    "title": "Bookworm",
+    "hex": "#312141",
+    "contrast": true
+  },
+  {
+    "id": "professor-plum",
+    "title": "Professor Plum",
+    "hex": "#7b7188",
+    "contrast": true
+  },
+  {
+    "id": "yoga-room",
+    "title": "Yoga Room",
+    "hex": "#beb5bf",
+    "contrast": false
+  },
+  {
+    "id": "past-time",
+    "title": "Past Time",
+    "hex": "#bcb1c2",
+    "contrast": false
+  },
+  {
+    "id": "lavender-dreams",
+    "title": "Lavender Dreams",
+    "hex": "#d8d0df",
+    "contrast": false
+  },
+  {
+    "id": "gratitude",
+    "title": "Gratitude",
+    "hex": "#c7afc9",
+    "contrast": true
+  },
+  {
+    "id": "lolly-scramble",
+    "title": "Lolly Scramble",
+    "hex": "#eee0f1",
+    "contrast": false
+  },
+  {
+    "id": "childhood-sweetheart",
+    "title": "Childhood Sweetheart",
+    "hex": "#bfbcc7",
+    "contrast": true
+  },
+  {
+    "id": "alpine-air",
+    "title": "Alpine Air",
+    "hex": "#f0edf1",
+    "contrast": false
+  },
+  {
+    "id": "dusk",
+    "title": "Dusk",
+    "hex": "#e2e7f4",
+    "contrast": false
+  },
+  {
+    "id": "calm-day",
+    "title": "Calm Day",
+    "hex": "#d1dced",
+    "contrast": false
+  },
+  {
+    "id": "sail-boat",
+    "title": "Sail Boat",
+    "hex": "#b0bece",
+    "contrast": true
+  },
+  {
+    "id": "picnic",
+    "title": "Picnic",
+    "hex": "#abbdd5",
+    "contrast": false
+  },
+  {
+    "id": "pacific",
+    "title": "Pacific",
+    "hex": "#5359a7",
+    "contrast": true
+  },
+  {
+    "id": "mountain-range",
+    "title": "Mountain Range",
+    "hex": "#0e2034",
+    "contrast": true
+  },
+  {
+    "id": "into-the-deep",
+    "title": "Into the Deep",
+    "hex": "#001333",
+    "contrast": true
+  },
+  {
+    "id": "pukeko-blue",
+    "title": "Pukeko Blue",
+    "hex": "#3e4857",
+    "contrast": true
+  },
+  {
+    "id": "after-hours",
+    "title": "After Hours",
+    "hex": "#324452",
+    "contrast": true
+  },
+  {
+    "id": "tui",
+    "title": "Tui",
+    "hex": "#314e60",
+    "contrast": true
+  },
+  {
+    "id": "little-blue-penguin",
+    "title": "Little Blue Penguin",
+    "hex": "#586d78",
+    "contrast": true
+  },
+  {
+    "id": "paua-shell",
+    "title": "Paua Shell",
+    "hex": "#3d7187",
+    "contrast": true
+  },
+  {
+    "id": "kingfisher",
+    "title": "Kingfisher",
+    "hex": "#2a6a80",
+    "contrast": true
+  },
+  {
+    "id": "intuition",
+    "title": "Intuition",
+    "hex": "#32565c",
+    "contrast": true
+  },
+  {
+    "id": "trend-setter",
+    "title": "Trend Setter",
+    "hex": "#6c848a",
+    "contrast": true
+  },
+  {
+    "id": "rockpool",
+    "title": "Rockpool",
+    "hex": "#8fa4a5",
+    "contrast": true
+  },
+  {
+    "id": "double-denim",
+    "title": "Double Denim",
+    "hex": "#8aa2b3",
+    "contrast": true
+  },
+  {
+    "id": "opera-in-the-park",
+    "title": "Opera in the Park",
+    "hex": "#a3bbbd",
+    "contrast": false
+  },
+  {
+    "id": "at-the-bay",
+    "title": "At the Bay",
+    "hex": "#d8f1ed",
+    "contrast": false
+  },
+  {
+    "id": "the-bach",
+    "title": "The Bach",
+    "hex": "#9edadf",
+    "contrast": false
+  },
+  {
+    "id": "coconut-ice",
+    "title": "Coconut Ice",
+    "hex": "#f5faf7",
+    "contrast": false
+  },
+  {
+    "id": "clarity",
+    "title": "Clarity",
+    "hex": "#f5fbfc",
+    "contrast": false
+  },
+  {
+    "id": "duck-egg",
+    "title": "Duck Egg",
+    "hex": "#e2edee",
+    "contrast": false
+  },
+  {
+    "id": "full-moon",
+    "title": "Full Moon",
+    "hex": "#dfeae3",
+    "contrast": false
+  },
+  {
+    "id": "snow-trail",
+    "title": "Snow Trail",
+    "hex": "#c4d2c7",
+    "contrast": false
+  },
+  {
+    "id": "mint",
+    "title": "Mint",
+    "hex": "#ecf7ee",
+    "contrast": false
+  },
+  {
+    "id": "rain",
+    "title": "Rain",
+    "hex": "#d9e7e2",
+    "contrast": false
+  },
+  {
+    "id": "sweetpea",
+    "title": "Sweetpea",
+    "hex": "#b9bfb5",
+    "contrast": true
+  },
+  {
+    "id": "thrift-shop",
+    "title": "Thrift Shop",
+    "hex": "#d2d3bc",
+    "contrast": false
+  },
+  {
+    "id": "mindfulness",
+    "title": "Mindfulness",
+    "hex": "#acb1a0",
+    "contrast": true
+  },
+  {
+    "id": "farmers-market",
+    "title": "Farmers Market",
+    "hex": "#a8bea3",
+    "contrast": false
+  },
+  {
+    "id": "fifties",
+    "title": "Fifties",
+    "hex": "#abc1b4",
+    "contrast": false
+  },
+  {
+    "id": "wilderness",
+    "title": "Wilderness",
+    "hex": "#95b09a",
+    "contrast": true
+  },
+  {
+    "id": "forest-floor",
+    "title": "Forest Floor",
+    "hex": "#607b67",
+    "contrast": true
+  },
+  {
+    "id": "plant-lover",
+    "title": "Plant Lover",
+    "hex": "#51776d",
+    "contrast": true
+  },
+  {
+    "id": "nocturnal",
+    "title": "Nocturnal",
+    "hex": "#455855",
+    "contrast": true
+  },
+  {
+    "id": "speakeasy",
+    "title": "Speakeasy",
+    "hex": "#042f2e",
+    "contrast": true
+  },
+  {
+    "id": "great-walk",
+    "title": "Great Walk",
+    "hex": "#14271f",
+    "contrast": true
+  },
+  {
+    "id": "travel-bug",
+    "title": "Travel Bug",
+    "hex": "#213f29",
+    "contrast": true
+  },
+  {
+    "id": "tree-hugger",
+    "title": "Tree Hugger",
+    "hex": "#28422f",
+    "contrast": true
+  },
+  {
+    "id": "kakapo",
+    "title": "Kakapo",
+    "hex": "#659652",
+    "contrast": true
+  },
+  {
+    "id": "bush-block",
+    "title": "Bush Block",
+    "hex": "#5d7152",
+    "contrast": true
+  },
+  {
+    "id": "veggie-shop",
+    "title": "Veggie shop",
+    "hex": "#7c8561",
+    "contrast": true
+  },
+  {
+    "id": "garden-path",
+    "title": "Garden Path",
+    "hex": "#797e67",
+    "contrast": true
+  },
+  {
+    "id": "in-the-valley",
+    "title": "In The Valley",
+    "hex": "#4d4d2f",
+    "contrast": true
+  },
+  {
+    "id": "smashed-avo",
+    "title": "Smashed Avo",
+    "hex": "#8e996a",
+    "contrast": true
+  },
+  {
+    "id": "bellbird",
+    "title": "Bellbird",
+    "hex": "#adb26c",
+    "contrast": false
+  },
+  {
+    "id": "vibing",
+    "title": "Vibing",
+    "hex": "#cbc687",
+    "contrast": true
+  },
+  {
+    "id": "lime-milkshake",
+    "title": "Lime Milkshake",
+    "hex": "#cbd699",
+    "contrast": false
+  },
+  {
+    "id": "bucket-list",
+    "title": "Bucket List",
+    "hex": "#d2d59c",
+    "contrast": false
+  },
+  {
+    "id": "wholesome",
+    "title": "Wholesome",
+    "hex": "#d9debe",
+    "contrast": false
+  },
+  {
+    "id": "back-country",
+    "title": "Back Country",
+    "hex": "#99a07a",
+    "contrast": false
+  },
+  {
+    "id": "low-tide",
+    "title": "Low Tide",
+    "hex": "#c8cab7",
+    "contrast": false
+  },
+  {
+    "id": "kina",
+    "title": "Kina",
+    "hex": "#daddd0",
+    "contrast": false
+  }
+]

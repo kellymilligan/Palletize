@@ -1,0 +1,41 @@
+{
+  "name": "palletize",
+  "version": "0.0.1",
+  "description": "Tools for collections of colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellymilligan/Palletize.git"
+  },
+  "keywords": [
+    "Color",
+    "Colour",
+    "Palette",
+    "Library",
+    "Swatch",
+    "HSL",
+    "Hue",
+    "Saturation",
+    "Lightness",
+    "Luminance",
+    "Random"
+  ],
+  "author": "Kelly Milligan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kellymilligan/Palletize/issues"
+  },
+  "homepage": "https://github.com/kellymilligan/Palletize#readme",
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
