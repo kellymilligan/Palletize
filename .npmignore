@@ -1,1 +1,8 @@
+.DS_Store
+node_modules
+test
+test.js
+.npmignore
+LICENSE.md
+
 ./data/natural-paint-co.json
