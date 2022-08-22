@@ -55,31 +55,31 @@ console.log(color)
 
 Query a single swatch by it's `id`
 
-### `random(n)`
+### `random(n = 1)`
 
-Query a randomized single or series of swatches from the whole library
+Query randomized swatches from the whole library
 
-### `luminance(min, max, n)`
+### `luminance(min, max, n = 1)`
 
-Query a randomized single or series of swatches within a luminance range
+Query randomized swatches within a luminance range
 
-### `hue(theta, range, n)`
+### `hue(theta, range, n = 1)`
 
-Query a randomized single or series of swatches within a range on the hue wheel
+Query randomized swatches within a range on the hue wheel
 `theta`: Degrees around the hue wheel 0:red -> 120:green -> 240:blue
 `range`: Degrees in either direction on the wheel to include in results
 
-### `saturation(min, max, n)`
+### `saturation(min, max, n = 1)`
 
-Query a randomized single or series of swatches within a saturation range
+Query randomized swatches within a saturation range
 
-### `lightness(min, max, n)`
+### `lightness(min, max, n = 1)`
 
-Query a randomized single or series of swatches within a lightness range
+Query randomized swatches within a lightness range
 
-### `hsl(hue, saturation, lightness, n)`
+### `hsl(hue, saturation, lightness, n = 1)`
 
-Query a randomized single or series of swatches that match the HSL ranges
+Query randomized swatches that match the HSL ranges
 `hue`: `[theta, range]`
 `saturation`: `[min, max]`
 `lightness`: `[min, max]`
