@@ -1,6 +1,6 @@
 {
   "name": "palletize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tools for collections of colors",
   "main": "index.js",
   "scripts": {

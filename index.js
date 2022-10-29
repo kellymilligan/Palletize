@@ -7,7 +7,7 @@ const { pick, shuffle } = require('canvas-sketch-util/random')
 
 /**
  * Initialize a palette using the provided color library
- * @param {Array<{id: string, hex: string}>} data Array of colour swatch objects
+ * @param {{id: string, hex: string}[]} data Array of colour swatch objects
  * @param {boolean} log Toggle error logging
  */
 module.exports = function (data, log = true) {

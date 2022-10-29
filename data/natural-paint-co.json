@@ -19,7 +19,7 @@
   },
   {
     "id": "goats-cheese",
-    "title": "Goat&#039;s Cheese",
+    "title": "Goat's Cheese",
     "hex": "#fefbed",
     "contrast": false
   },
@@ -79,7 +79,7 @@
   },
   {
     "id": "quails-egg",
-    "title": "Quail&#039;s Egg",
+    "title": "Quail's Egg",
     "hex": "#d9ddd9",
     "contrast": false
   },
@@ -151,7 +151,7 @@
   },
   {
     "id": "tides-out",
-    "title": "Tide&#039;s Out",
+    "title": "Tide's Out",
     "hex": "#d0ccbb",
     "contrast": false
   },
@@ -169,7 +169,7 @@
   },
   {
     "id": "moas-egg",
-    "title": "Moa&#039;s Egg",
+    "title": "Moa's Egg",
     "hex": "#e2e1d1",
     "contrast": false
   },
@@ -253,7 +253,7 @@
   },
   {
     "id": "shell-be-right",
-    "title": "She&#039;ll Be Right",
+    "title": "She'll Be Right",
     "hex": "#e0c4a9",
     "contrast": false
   },
@@ -463,7 +463,7 @@
   },
   {
     "id": "im-blushing",
-    "title": "I&#039;m Blushing",
+    "title": "I'm Blushing",
     "hex": "#e4ccc5",
     "contrast": false
   },
@@ -481,7 +481,7 @@
   },
   {
     "id": "founders-pink",
-    "title": "Founder&#039;s Pink",
+    "title": "Founder's Pink",
     "hex": "#f7d7ce",
     "contrast": false
   },
@@ -597,24 +597,30 @@
     "id": "picnic",
     "title": "Picnic",
     "hex": "#abbdd5",
-    "contrast": false
-  },
-  {
-    "id": "pacific",
-    "title": "Pacific",
-    "hex": "#5359a7",
     "contrast": true
   },
   {
-    "id": "mountain-range",
-    "title": "Mountain Range",
-    "hex": "#0e2034",
+    "id": "bucket-list",
+    "title": "Bucket List",
+    "hex": "#4d5b82",
+    "contrast": true
+  },
+  {
+    "id": "pacific-blue",
+    "title": "Pacific Blue",
+    "hex": "#212d57",
     "contrast": true
   },
   {
     "id": "into-the-deep",
     "title": "Into the Deep",
     "hex": "#001333",
+    "contrast": true
+  },
+  {
+    "id": "mountain-range",
+    "title": "Mountain Range",
+    "hex": "#0e2034",
     "contrast": true
   },
   {
@@ -829,7 +835,7 @@
   },
   {
     "id": "veggie-shop",
-    "title": "Veggie shop",
+    "title": "Veggie Shop",
     "hex": "#7c8561",
     "contrast": true
   },
@@ -867,12 +873,6 @@
     "id": "lime-milkshake",
     "title": "Lime Milkshake",
     "hex": "#cbd699",
-    "contrast": false
-  },
-  {
-    "id": "bucket-list",
-    "title": "Bucket List",
-    "hex": "#d2d59c",
     "contrast": false
   },
   {
